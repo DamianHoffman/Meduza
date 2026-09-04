@@ -1,5 +1,0 @@
-# Only one third-party dependency: the Anthropic SDK, which is the actual
-# product here (tool-use loop, retries, request handling for the Claude
-# API). Flask, requests, and python-dotenv have all been dropped in favor
-# of the standard library — see app.py's docstring for why.
-anthropic>=0.40.0
