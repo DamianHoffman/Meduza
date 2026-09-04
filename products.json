@@ -1,0 +1,34 @@
+[
+  {
+    "id": "P-100",
+    "name": "Ceramic Table Vase",
+    "variant": "Sand",
+    "price": 48,
+    "material": "Stoneware",
+    "swatch": "#D8C4A0"
+  },
+  {
+    "id": "P-101",
+    "name": "Waffle-Weave Throw",
+    "variant": "Charcoal",
+    "price": 68,
+    "material": "100% linen",
+    "swatch": "#4B4A46"
+  },
+  {
+    "id": "P-102",
+    "name": "Rift Oak Coffee Table",
+    "variant": "Natural",
+    "price": 640,
+    "material": "Solid rift-sawn oak",
+    "swatch": "#A9784F"
+  },
+  {
+    "id": "P-103",
+    "name": "Hand-Poured Fig Candle",
+    "variant": "Amber Jar",
+    "price": 32,
+    "material": "Soy wax",
+    "swatch": "#C98A3B"
+  }
+]

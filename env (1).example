@@ -1,0 +1,15 @@
+# Copy this file to .env and fill in your keys:
+#   cp .env.example .env
+#
+# .env is already in .gitignore — never commit your real keys.
+# The app runs without any keys set too, falling back to a labeled demo
+# reply so you can try the UI before wiring up real accounts.
+
+# Anthropic (Claude) — required for real answers.
+# Create a key: https://console.anthropic.com/settings/keys
+ANTHROPIC_API_KEY=
+
+# Where the Go voice-service is running. Only needs to change if you're
+# running it on a different port or host. ElevenLabs credentials live in
+# voice-service/.env instead, not here — see voice-service/.env.example.
+VOICE_SERVICE_URL=http://localhost:8081
